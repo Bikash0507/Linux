@@ -12,7 +12,7 @@ To work with Docker, you can use the following basic commands:
 
      docker run -d --name <container_name> <image_name>
 
-This command starts a container in detached mode (-d) and assigns a name to the container (--name)
+    This command starts a container in detached mode (-d) and assigns a name to the container (--name)
 
 4. List running containers:
 
